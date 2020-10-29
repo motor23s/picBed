@@ -5,7 +5,7 @@
 - FreshDesk/GitLab Issue/Lanhu? -> self-made
 ## Life Cycle
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.guru99.com%2Fdefect-life-cycle.html&psig=AOvVaw2HNaJ7dr7rZkMX9nEc5hvM&ust=1604038226329000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjz7JqS2ewCFQAAAAAdAAAAABAg)
+![](./img/012715_0802_BugLifeCycl1.png)
 
 - 严重故障（标准：客服报障超过10例；其它来源，阻碍主用例的故障）
 	立即上升，发动一切相关资源
